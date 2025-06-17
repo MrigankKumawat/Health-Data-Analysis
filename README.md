@@ -30,7 +30,6 @@ This project explores a medical dataset using Python for data cleaning, transfor
 - Bar Chart: Gender vs Average BMI
 - Pie Chart: BMI Category Distribution
 - Histogram: Blood Pressure Distribution
-- Scatter Plot: Cholesterol vs BMI
 - Subplots: Combined view of various insights
 
 ---
