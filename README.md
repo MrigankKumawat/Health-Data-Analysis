@@ -36,6 +36,11 @@ This project explores a medical dataset using Python for data cleaning, transfor
 
 ---
 
+## 📊 Sample Visuals from the Report:
+### Category Wise Distribution
+![Category Pie Chart](images/category wise distribution.png)
+
+
 ## 🗃️ Dataset
 Used a health dataset with columns like:
 - Age, Gender, BMI, Cholesterol, Blood Pressure
