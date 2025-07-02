@@ -38,7 +38,10 @@ This project explores a medical dataset using Python for data cleaning, transfor
 
 ## 📊 Sample Visuals from the Report:
 ### Category Wise Distribution
-![Category Pie Chart](images/category wise distribution.png)
+![Category Pie Chart](images/category-wise-distribution.png)
+
+### Blood Pressure Distribution
+![Blood Pressure Histogram Chart](images/blood-pressure-distribution.png)
 
 ## 🗃️ Dataset
 Used a health dataset with columns like:
